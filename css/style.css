@@ -437,7 +437,7 @@ main {
 }
 }
 
-@media (min-width: 875px) {
+@media (min-width: 875px) { 
   .services__desc {
     max-width: 405px;
   }
